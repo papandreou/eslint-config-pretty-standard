@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pretty-standard-papandreou",
-  "version": "1.4.1",
+  "version": "1.4.1-patch1",
   "description": "A shareable eslint+prettier config based on standard",
   "main": "index.js",
   "license": "MIT",

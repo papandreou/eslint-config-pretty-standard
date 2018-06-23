@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-pretty-standard",
+  "name": "eslint-config-pretty-standard-papandreou",
   "version": "1.4.1",
   "description": "A shareable eslint+prettier config based on standard",
   "main": "index.js",
